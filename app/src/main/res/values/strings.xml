@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">rmainviousg</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_title">Rick And Morty</string>
+    <string name="splash_greeting">Welcome</string>
+    <string name="splash_button_text">LET ME IN</string>
+    <string name="StatusTitle">Status:</string>
+    <string name="SpecyTitle">Specy:</string>
+    <string name="GenderTitle">Gender:</string>
+    <string name="OriginTitle">Origin:</string>
+    <string name="LocationTitle">Location:</string>
+    <string name="EpisodesTitle">Episodes:</string>
+    <string name="CreatedAtTitle">Created at:\n(in API)</string>
+</resources>
